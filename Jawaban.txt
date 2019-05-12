@@ -1,0 +1,6 @@
+1.Left Join : membuat parameter dari tabel sebelah kiri, dan jika pada tabel terdapat data atau record yang kosong atau tidak berelasi maka akan berisi NULL di sebelah kanan.
+
+2. Right Join : membuat parameter dari tabel sebelah kanan, dan jika data pada tabel terdapat data atau record yang kosong atau tidak berelasi maka akan berisi NULL disebelah kiri.
+
+3. Inner Join : menampilkan sebuah data atau record dengan menghubungkan dua tabel atau lebih dalam satu perintah,
+ dan data yang akan ditampilkan hanyalah data yang memiliki pasangan saja, maksudnya yaitu data pada table tidak memiliki sebuah kesamaan maka data tidak akan ditampilkan. 
